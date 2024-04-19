@@ -1,0 +1,2 @@
+- MIT OpenCourseWare - Introduction To Electrical Engineering And Computer Science I {6.01SC} ([Course](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/))
+- MIT OpenCourseWare - Introduction To EECS II: Digital Communication Systems {6.02} ([Course](https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/))

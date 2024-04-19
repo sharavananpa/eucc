@@ -1,0 +1,2 @@
+- MIT OCW - Computation Structures {6.004} ([Course](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/))
+- MIT OCW - Computer System Engineering {6.033} ([Course](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)) ([Alternative Page](https://web.mit.edu/6.033/www/))
