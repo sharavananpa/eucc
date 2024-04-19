@@ -14,14 +14,14 @@ Now, don't get me wrong! This list is by no means a substitute for a real colleg
 
 Both beginners and experienced professionals can make use of this list. This gives you an overall picture (that I didn't have back then) of how the foundational subjects are connected and some of the best (mostly free) resources to teach those subjects to yourself. This list can save you from the search spiral for the best resources on the internet. Pick a course from the lot and go to depths no one had ever reached.
 
-> [!WARNING] Note
+> [!WARNING]
 > *This list is by no means exhaustive. It is more like a stripped-down version of a UG program. The myriad of electives, majors and minors are all gone.*
 
 # Getting the best out of these resources
 
 Stop treating video lectures as your primary resource. Of course, they are helpful, but learning doesn't happen there. Take time to solve the problem sets or exercises that come along with a course or a book. [Real learning](https://www.youtube.com/watch?v=C5OJJD3Eytk) happens when you put effort into solving them and while you sleep (you must sleep well - extremely important). The problems you work on shouldn't be too hard or too easy. The problem should feel hard and doable (find a sweet spot), and it is absolutely fine to look at a solution sometimes.
 
- > [!TIP] Free Advice
+ > [!TIP]
  > *[Take it easy!](Memes/Free_Advice.jpeg) Not every day is a good day, and that's okay. Come back tomorrow and start again. You can succeed in this only if you enjoy what you're doing!*
 
 # Flow diagram
@@ -40,6 +40,13 @@ Stop treating video lectures as your primary resource. Of course, they are helpf
 # Resources
 
 Since the flow diagram categorises the subjects in "levels", I've refrained from doing that again here. The subjects are grouped by their discipline instead.
+
+## Requisite
+- Deep Teaching Solutions (Coursera) - Learning How to Learn ([Course](https://www.coursera.org/learn/learning-how-to-learn)) ([Professor](https://barbaraoakley.com/))
+- Khan Academy ([Website](https://www.khanacademy.org/))
+- MIT OpenCourseWare - Introduction To Computer Science And Programming In Python {6.0001} ([Course](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/))
+- Harvard - Introduction to Computer Science {CS50} ([Course Page](https://cs50.harvard.edu/x))
+- MIT OpenCourseWare - Introduction To Computer Science And Programming In Python {6.0002} ([Course](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/))
 
 ## Pure Science
 
