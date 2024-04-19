@@ -1,6 +1,8 @@
-# Emulation of an Undergraduate Computer Science Curriculum (EUCC)
+# Emulation of an Undergraduate CS Curriculum (EUCC)
 
 This is another list on the internet (among thousands of others) that compiles courses and books from various sources to help you achieve your self-study goals.
+
+*CS = Computer Science (if you're wondering!)
 
 ![Lofi Girl by Wacca](Artwork/Lofi_Girl_by_Wacca.jpg)
 
