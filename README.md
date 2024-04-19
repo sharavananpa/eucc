@@ -1,4 +1,4 @@
-# Emulation of an Undergraduate CS Curriculum (EUCC)
+# Emulation of an Undergraduate CS* Curriculum (EUCC)
 
 This is another list on the internet (among thousands of others) that compiles courses and books from various sources to help you achieve your self-study goals.
 
