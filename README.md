@@ -41,6 +41,54 @@ Stop treating video lectures as your primary resource. Of course, they are helpf
 
 Since the flow diagram categorises the subjects in "levels", I've refrained from doing that again here. The subjects are grouped by their discipline instead.
 
+<details>
+<summary>Table of Contents</summary>
+
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Requisite](#requisite)
+- [Pure Science](#pure-science)
+   * [Continuous Mathematics](#continuous-mathematics)
+   * [Linear Algebra](#linear-algebra)
+   * [Discrete Mathematics](#discrete-mathematics)
+   * [Probability](#probability)
+   * [Physics](#physics)
+   * [Chemistry](#chemistry)
+- [Electrical Engineering](#electrical-engineering)
+   * [Circuits And Electronics](#circuits-and-electronics)
+   * [Bridge Courses I](#bridge-courses-i)
+   * [Signals and Systems](#signals-and-systems)
+- [Computer Science (level 1, 2 and 3)](#computer-science-level-1-2-and-3)
+   * [Programming](#programming)
+   * [Data Structures and Algorithms](#data-structures-and-algorithms)
+   * [Computer Architecture](#computer-architecture)
+   * [Database Management Systems](#database-management-systems)
+   * [Operating Systems](#operating-systems)
+   * [Computer Networks](#computer-networks)
+- [Computer Science (level 4 and 5)](#computer-science-level-4-and-5)
+   * [Theory of Computing](#theory-of-computing)
+   * [Artificial Intelligence](#artificial-intelligence)
+   * [Parallel Programming](#parallel-programming)
+   * [Software Architecture](#software-architecture)
+   * [Bridge Courses II](#bridge-courses-ii)
+   * [Compilers](#compilers)
+   * [Machine Learning](#machine-learning)
+   * [Distributed Systems](#distributed-systems)
+   * [Embedded Systems](#embedded-systems)
+   * [Security](#security)
+- [Computer Science (level 6 and more)](#computer-science-level-6-and-more)
+   * [Computer Graphics](#computer-graphics)
+   * [Cloud Computing](#cloud-computing)
+   * [Web Technologies](#web-technologies)
+   * [Advanced Data Structures and Algorithms](#advanced-data-structures-and-algorithms)
+- [Others](#others)
+   * [Software Engineering](#software-engineering)
+   * [Ethics](#ethics)
+
+<!-- TOC end -->
+
+</details>
+
 ## Requisite
 - Deep Teaching Solutions (Coursera) - Learning How to Learn ([Course](https://www.coursera.org/learn/learning-how-to-learn)) ([Professor](https://barbaraoakley.com/))
 - Khan Academy ([Website](https://www.khanacademy.org/))
