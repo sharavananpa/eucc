@@ -1,2 +1,3 @@
 markdown: GFM
-highlighter: rouge
+plugins:
+  - jekyll-target-blank
