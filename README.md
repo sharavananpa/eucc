@@ -20,22 +20,19 @@ Now, don't get me wrong! This list is by no means a substitute for a real colleg
 
 Both beginners and experienced professionals can make use of this list. This gives you an overall picture (that I didn't have back then) of how the foundational subjects are connected and some of the best (mostly free) resources to teach those subjects to yourself. This list can save you from the search spiral for the best resources on the internet. Pick a course from the lot and go to depths no one had ever reached.
 
-> [!WARNING]
 > *This list is by no means exhaustive. It is more like a stripped-down version of a UG program. The myriad of electives, majors and minors are all gone.*
 
 # Getting the best out of these resources
 
 Stop treating video lectures as your primary resource. Of course, they are helpful, but learning doesn't happen there. Take time to solve the problem sets or exercises that come along with a course or a book. [Real learning](https://www.youtube.com/watch?v=C5OJJD3Eytk) happens when you put effort into solving them and while you sleep (you must sleep well - extremely important). The problems you work on shouldn't be too hard or too easy. The problem should feel hard and doable (find a sweet spot), and it is absolutely fine to look at a solution sometimes.
 
- > [!TIP]
- > *[Take it easy!](Memes/Free_Advice.jpeg) Not every day is a good day, and that's okay. Come back tomorrow and start again. You can succeed in this only if you enjoy what you're doing!*
+ > *[Take it easy!](Memes/Free_Advice.jpeg) Not every day is a good day, and that's okay. Come back tomorrow and start again. You can succeed in this only if you enjoy what you're doing.*
 
 # Flow diagram
 
 **Get a copy** *([light](https://svgshare.com/i/15a9.svg), [light and transparent](Flowcharts/lt.svg), [dark](https://svgshare.com/i/15bE.svg), [dark and transparent](Flowcharts/dt.svg))*
 
-![Flowchart (Dark)](Flowcharts/dt.svg#gh-dark-mode-only)
-![Flowchart (Light)](Flowcharts/lt.svg#gh-light-mode-only)
+![Flowchart (light)](Flowcharts/l.svg)
 
 1. We don't have an accurate measure of the time necessary to complete the courses. So, I've used "Levels" to suggest the hierarchy (contrary to the semester system that a typical college uses). 
 
@@ -48,7 +45,9 @@ Stop treating video lectures as your primary resource. Of course, they are helpf
 Since the flow diagram categorises the subjects in "levels", I've refrained from doing that again here. The subjects are grouped by their discipline instead.
 
 <details>
-<summary>Table of Contents</summary>
+<summary>
+   Table of Contents
+</summary>
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
