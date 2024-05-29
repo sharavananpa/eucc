@@ -3,7 +3,7 @@
         const tags = document.getElementsByTagName("a");
         for (var i = 0; i < tags.length; i++) {
             var tag = tags[i];
-            if (tag.getAttribute("href") && tag.hostname !== location.hostname) {
+            if (tag.getAttribute("href") && tag.hostname !== location.pathname) {
                 tag.target = "_blank";
                 tag.rel = "noopener noreferrer";
             }
