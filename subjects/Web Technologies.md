@@ -1,0 +1,4 @@
+- Meta (Coursera) - Front-End Developer ([Course](https://www.coursera.org/professional-certificates/meta-front-end-developer))
+- Meta (Coursera) - Back-End Developer ([Course](https://www.coursera.org/professional-certificates/meta-back-end-developer))
+- The Odin Project ([Website](https://www.theodinproject.com/paths/full-stack-javascript))
+- Full Stack open ([Website](https://fullstackopen.com/en/))

@@ -1,0 +1,4 @@
+- Eindhoven University of Technology (Coursera) - Ethics, Technology and Engineering ([Course](https://www.coursera.org/learn/ethics-technology-engineering))
+- University of Michigan (Coursera) - Ethics in Engineering ([Course](https://www.coursera.org/learn/ethics-in-engineering))
+- *Design Justice* by Sasha Costanza-Chock ([Book](https://designjustice.mitpress.mit.edu/))
+- *Value Sensitive Design* by Batya Friedman and David G. Hendry (Book)

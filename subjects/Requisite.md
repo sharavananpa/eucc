@@ -1,0 +1,5 @@
+- Deep Teaching Solutions (Coursera) - Learning How to Learn ([Course](https://www.coursera.org/learn/learning-how-to-learn)) ([Professor](https://barbaraoakley.com/))
+- Khan Academy ([Website](https://www.khanacademy.org/))
+- MIT OpenCourseWare - Introduction To Computer Science And Programming In Python {6.0001} ([Course](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/))
+- Harvard - Introduction to Computer Science {CS50} ([Course Page](https://cs50.harvard.edu/x))
+- MIT OpenCourseWare - Introduction To Computer Science And Programming In Python {6.0002} ([Course](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/))

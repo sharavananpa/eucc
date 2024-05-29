@@ -1,0 +1,4 @@
+- IBM (Coursera) - Introduction to Software Engineering ([Course](https://www.coursera.org/learn/introduction-to-software-engineering))
+- Agile Manifesto ([Website](http://agilemanifesto.org/))
+- Agile Modeling ([Website](http://www.agilemodeling.com/))
+- Agile And Scrum Videos & Tutorials ([Website](http://www.tvagile.com/))
