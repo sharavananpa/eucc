@@ -1,4 +1,0 @@
-- TsinghuaX - Engineering Drawing ([Course](https://www.edx.org/learn/engineering/tsinghua-university-engineering-drawing-gong-cheng-zhi-tu))
-- Engineering Drawing and Graphics ([Youtube Playlist](https://www.youtube.com/playlist?list=PLIhUrsYr8yHwDUrVYmUNYkEeZgZTvoIfS))
-- NPTEL - Engineering Graphics and Design ([Course](https://archive.nptel.ac.in/courses/112/102/112102304/#))
-- *Engineering Graphics* by K Venugopal and Prabhu Raja V
