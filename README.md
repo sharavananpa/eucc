@@ -4,9 +4,9 @@ This is another list on the internet (among thousands of others) that compiles c
 
 *CS = Computer Science (if you're wondering!)
 
-![Palestinian LoFi Girl by Nadin Burqan](Artwork/Palestinian_LoFi_Girl_by_Nadin_Burqan.png)
+![Palestinian LoFi Girl by Nadin Burqan](artwork/Palestinian_LoFi_Girl_by_Nadin_Burqan.png)
 
-Artwork by [Nadin Burqan](https://www.behance.net/nadinburqafa45) ([License](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en))
+artwork by [Nadin Burqan](https://www.behance.net/nadinburqafa45) ([License](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en))
 
 # Background
 
@@ -26,11 +26,11 @@ Both beginners and experienced professionals can make use of this list. This giv
 
 Stop treating video lectures as your primary resource. Of course, they are helpful, but learning doesn't happen there. Take time to solve the problem sets or exercises that come along with a course or a book. [Real learning](https://www.youtube.com/watch?v=C5OJJD3Eytk) happens when you put effort into solving them and while you sleep (you must sleep well - extremely important). The problems you work on shouldn't be too hard or too easy. The problem should feel hard and doable (find a sweet spot), and it is absolutely fine to look at a solution sometimes.
 
- > *[Take it easy!](Memes/Free_Advice.jpeg) Not every day is a good day, and that's okay. Come back tomorrow and start again. You can succeed in this only if you enjoy what you're doing.*
+ > *[Take it easy!](memes/Free_Advice.jpeg) Not every day is a good day, and that's okay. Come back tomorrow and start again. You can succeed in this only if you enjoy what you're doing.*
 
 # Flow diagram
 
-**Get a copy** *([light](https://svgshare.com/i/15a9.svg), [light and transparent](Flowcharts/lt.svg), [dark](https://svgshare.com/i/15bE.svg), [dark and transparent](Flowcharts/dt.svg))*
+**Get a copy** *([light](https://misc.sharavananpa.dev/eucc%2Feucc_light.svg), [light and transparent](https://misc.sharavananpa.dev/eucc%2Feucc_light_transparent.svg), [dark](https://misc.sharavananpa.dev/eucc%2Feucc_dark.svg), [dark and transparent](https://misc.sharavananpa.dev/eucc%2Feucc_dark_transparent.svg))*
 
 ![Flowchart (light)](Flowcharts/l.svg)
 
