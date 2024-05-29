@@ -2,6 +2,5 @@ markdown: GFM
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-remote-theme
-title: EUCC
 description: Emulation of an Undergraduate Computer Science Curriculum
 show_downloads: true
