@@ -1,6 +1,6 @@
 <script>
     function open_new_tab() {
-        const tags = document.getElementsByTagName("i");
+        const tags = document.getElementsByTagName("a");
         for (var i = 0; i < tags.length; i++) {
             var tag = tags[i];
             if (tag.getAttribute("href") && tag.hostname !== location.hostname) {
