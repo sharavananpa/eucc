@@ -32,7 +32,7 @@ Stop treating video lectures as your primary resource. Of course, they are helpf
 
 **Get a copy** *([light](https://misc.sharavananpa.dev/eucc%2Feucc_light.svg), [light and transparent](https://misc.sharavananpa.dev/eucc%2Feucc_light_transparent.svg), [dark](https://misc.sharavananpa.dev/eucc%2Feucc_dark.svg), [dark and transparent](https://misc.sharavananpa.dev/eucc%2Feucc_dark_transparent.svg))*
 
-![Flowchart (light)](Flowcharts/l.svg)
+![Flowchart (light)](https://misc.sharavananpa.dev/eucc%2Feucc_light_transparent.svg)
 
 1. We don't have an accurate measure of the time necessary to complete the courses. So, I've used "Levels" to suggest the hierarchy (contrary to the semester system that a typical college uses). 
 
