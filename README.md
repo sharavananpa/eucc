@@ -1,3 +1,11 @@
+---
+author:
+   twitter: sharavananpa
+   image:
+      path: /artwork/Palestinian_LoFi_Girl_by_Nadin_Burqan.png
+      width: 1200
+      alt: EUCC Palestinian LoFi Girl
+---
 # [Emulation of an Undergraduate CS* Curriculum](https://sharavananpa.dev/eucc/)
 
 This is another list on the internet (among thousands of others) that compiles courses and books from various sources to help you achieve your self-study goals.

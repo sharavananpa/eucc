@@ -6,13 +6,9 @@ show_downloads: true
 title: EUCC
 tagline: Emulation of an Undergraduate CS Curriculum
 description: Emulation of an Undergraduate Computer Science Curriculum. Contains a list of courses and resources that help people meet their self-study goals.
-url: https://sharavananpa.dev/eucc/
+url: https://sharavananpa.dev
 author: Sharavanan
 twitter:
   username: sharavananpa
   card: summary
-logo:
-image:
-  path: /artwork/Palestinian_LoFi_Girl_by_Nadin_Burqan.png
-  width: 1200
-  alt: EUCC Palestinian LoFi Girl
+logo: /artwork/Palestinian_LoFi_Girl_by_Nadin_Burqan.png
