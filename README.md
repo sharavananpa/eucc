@@ -220,6 +220,7 @@ Since the flow diagram categorises the subjects in "levels", I've refrained from
 - Stony Brook University - Analysis of Algorithms {CSE 373} ([Lectures](https://www3.cs.stonybrook.edu/~skiena/373/videos/))
 - _How to Solve It_ by George Pólya ([Book](https://en.wikipedia.org/wiki/How_to_Solve_It))
 - _Algorithms_ by Christos Papadimitriou, Sanjoy Dasgupta, and Umesh Vazirani (Book)
+- _Algorithm Design_ by Jon Kleinberg and Éva Tardos
 
 ### Computer Architecture
 #### Primary
