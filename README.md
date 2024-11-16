@@ -245,6 +245,7 @@ Since the flow diagram categorises the subjects in "levels", I've refrained from
 - Modern Database Management by Jeff Hoffer, Ramesh Venkataraman and Heikki Topi (Book)
 - SQL Style Guide ([Website](https://www.sqlstyle.guide/))
 - SQL Murder Mystery ([Website](https://mystery.knightlab.com/))
+- SQL Pratice ([Website](https://www.sql-practice.com/))
 
 ### Operating Systems
 #### Primary
